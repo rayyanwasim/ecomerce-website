@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Apr 2025 22:05:02 at https://www.wix.com/website-template/view/html/3670 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wix.com/website-template/view/html/3670 -%L https://www.wix.com/website-template/view/html/3670 -O1 "C:\My Web Sites\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:05:02	Error: 	Could not include URL list: https://www.wix.com/website-template/view/html/3670
+22:15:49	Error: 	"Forbidden" (403) at link https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2c056da8-4920-4e20-8c69-8a6b315458a9.woff (from https://static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css)
+22:16:11	Error: 	"Forbidden" (403) at link https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2381d918-136d-444f-8391-db0cba6da388.ttf (from https://static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css)
+22:16:22	Error: 	"Forbidden" (403) at link https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/d0697971-6f58-4597-942e-8beabd1adc87.svg (from https://static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css)
+22:29:38	Error: 	Exit requested by shell or user
+22:29:51	Error: 	"Cancelled by User" (-1) at link https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff (from https://static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 50 seconds : 137 links scanned, 131 files written (11400702 bytes overall), 3 files updated [153549 bytes received at 103 bytes/sec], 183359 bytes transferred using HTTP compression in 6 files, ratio 32%, 1.4 requests per connection
+(6 errors, 0 warnings, 0 messages)
